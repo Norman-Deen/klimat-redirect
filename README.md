@@ -28,7 +28,7 @@ The `index.html` file includes a JavaScript snippet that instantly redirects use
 <script>
   window.location.href = "https://your-wix-site.com";
 </script>
-````
+```
 
 Once deployed, the page forwards all traffic to the designated Wix address.
 
